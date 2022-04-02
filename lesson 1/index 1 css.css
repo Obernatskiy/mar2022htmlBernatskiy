@@ -1,0 +1,40 @@
+body {
+    background: azure;
+}
+h1 {
+    background: blue;
+    color: white;
+}
+
+img {
+    width:204px ;
+}
+.center-img {
+    display: block;
+    margin:auto;
+}
+p {
+    background: greenyellow;
+    color: blue;
+    text-align: justify;
+}
+
+h2 {
+    background: darkorchid;
+    color: gray;
+    text-align: center;
+}
+
+ul {
+    background: darkgreen;
+
+}
+
+li {
+    background: burlywood;
+}
+
+a {
+    color: darkorange;
+    text-decoration: none;
+}
