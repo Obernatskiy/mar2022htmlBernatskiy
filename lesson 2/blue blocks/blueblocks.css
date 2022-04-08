@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.container {
+    width: 700px;
+    height: 100vh;
+    background: #2269bb;
+}
+.block {
+    width: 700px;
+    height: 30vh;
+}
+.block-box {
+    width: 700px;
+    height: 30vh;
+    background: silver;
+}
+.block-bottom {
+    width: 700px;
+    height: 40vh;
+    background: darkorange;
+}
