@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f79da420-80ab-4158-b7b1-85b1d726dd55" name="Changes" comment="роблю дз 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson 4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/media.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <updated>1649432814643</updated>
       <workItem from="1649432827894" duration="6039000" />
       <workItem from="1649608080142" duration="2904000" />
-      <workItem from="1649767796033" duration="4594000" />
+      <workItem from="1649767796033" duration="7288000" />
     </task>
     <task id="LOCAL-00001" summary="була проблена з відображенням, видаляв папку ідеа">
       <created>1649432997721</created>
@@ -76,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649773035510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="роблю дз 4">
+      <created>1649773421663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649773421663</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
