@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79da420-80ab-4158-b7b1-85b1d726dd55" name="Changes" comment="додав card1">
-      <change afterPath="$PROJECT_DIR$/lesson 3/card 1/card 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/card 1/card1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/normalize.css" afterDir="false" />
+    <list default="true" id="f79da420-80ab-4158-b7b1-85b1d726dd55" name="Changes" comment="роблю дз 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <updated>1649432814643</updated>
       <workItem from="1649432827894" duration="6039000" />
       <workItem from="1649608080142" duration="2904000" />
-      <workItem from="1649767796033" duration="3919000" />
+      <workItem from="1649767796033" duration="4594000" />
     </task>
     <task id="LOCAL-00001" summary="була проблена з відображенням, видаляв папку ідеа">
       <created>1649432997721</created>
@@ -74,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649433301591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="роблю дз 4">
+      <created>1649773035510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649773035510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +97,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="була проблена з відображенням, видаляв папку ідеа" />
     <MESSAGE value="додав card1" />
-    <option name="LAST_COMMIT_MESSAGE" value="додав card1" />
+    <MESSAGE value="роблю дз 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="роблю дз 4" />
   </component>
 </project>

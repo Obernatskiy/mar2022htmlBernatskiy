@@ -1,6 +1,5 @@
 .container {
     width: 100%;
-    background: burlywood;
     min-height: 600px;
 }
 .a {
@@ -15,7 +14,6 @@
 .twobox-wraper {
     width: 75%;
     height: 500px;
-    background: coral;
     display: flex;
     flex-direction: column;
 }
@@ -27,7 +25,6 @@
 .bcd {
     width: 100%;
     height: 250px;
-    background: bisque;
     display: flex;
     flex-direction: row;
 }
@@ -43,13 +40,12 @@
 }
 .d {
     width: 33.3%;
-    height: 50%;
+    height: 100%;
     background: yellow;
 }
 .efg {
     width: 100%;
     height: 250px;
-    background: darkred;
     display: flex;
     flex-direction: row;
 }
@@ -68,5 +64,5 @@
 .g {
     width: 33.3%;
     height: 50%;
-    background: grey;
+    background: grey; !important;
 }
