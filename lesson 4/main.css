@@ -1,0 +1,72 @@
+.container {
+    width: 100%;
+    background: burlywood;
+    min-height: 600px;
+}
+.a {
+    width: 100%;
+    height: 100px;
+    background: #2269bb;
+}
+.global-wraper {
+    display: flex;
+
+}
+.twobox-wraper {
+    width: 75%;
+    height: 500px;
+    background: coral;
+    display: flex;
+    flex-direction: column;
+}
+.h {
+    width: 25%;
+    height: 500px;
+    background: aquamarine;
+}
+.bcd {
+    width: 100%;
+    height: 250px;
+    background: bisque;
+    display: flex;
+    flex-direction: row;
+}
+.b {
+    width: 33.3%;
+    height: 100%;
+    background: darkgreen;
+}
+.c {
+    width: 33.3%;
+    height: 100%;
+    background: cadetblue;
+}
+.d {
+    width: 33.3%;
+    height: 50%;
+    background: yellow;
+}
+.efg {
+    width: 100%;
+    height: 250px;
+    background: darkred;
+    display: flex;
+    flex-direction: row;
+}
+
+.e {
+    width: 33.3%;
+    height: 100%;
+    background: black;
+}
+.f {
+    width: 33.3%;
+    height: 100%;
+    background: darksalmon;
+}
+
+.g {
+    width: 33.3%;
+    height: 50%;
+    background: grey;
+}
