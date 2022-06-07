@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79da420-80ab-4158-b7b1-85b1d726dd55" name="Changes" comment="js homework 5">
-      <change afterPath="$PROJECT_DIR$/js/lesson 6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 6/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 7/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 8/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/lesson 9/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f79da420-80ab-4158-b7b1-85b1d726dd55" name="Changes" comment="js hw 9 + additional">
+      <change afterPath="$PROJECT_DIR$/js/lesson 10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 11/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 12/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson 12/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/index/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/index/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/post-details/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/post-details/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/post-details/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/user-details/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/user-details/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mini project/user-details/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/lesson 1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson 1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/lesson 2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson 2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson 3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson 3/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson 4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson 4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson 5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson 5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,12 +68,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sasha\IdeaProjects\mar 2022 html Bernatskiy\html" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/lesson 4/main.js" working-dir="$PROJECT_DIR$/js/lesson 4">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,7 +110,23 @@
       <workItem from="1652944853968" duration="10115000" />
       <workItem from="1653036605897" duration="7561000" />
       <workItem from="1653169188752" duration="6029000" />
-      <workItem from="1653218292341" duration="8590000" />
+      <workItem from="1653218292341" duration="22046000" />
+      <workItem from="1653546404757" duration="1406000" />
+      <workItem from="1653556427502" duration="6753000" />
+      <workItem from="1653569760032" duration="4022000" />
+      <workItem from="1653643822060" duration="720000" />
+      <workItem from="1653645234237" duration="1996000" />
+      <workItem from="1653822901054" duration="4547000" />
+      <workItem from="1653827757873" duration="6833000" />
+      <workItem from="1653913648637" duration="1925000" />
+      <workItem from="1653971570636" duration="3016000" />
+      <workItem from="1654079297044" duration="3959000" />
+      <workItem from="1654370738500" duration="270000" />
+      <workItem from="1654371574896" duration="7951000" />
+      <workItem from="1654383637038" duration="72000" />
+      <workItem from="1654417172491" duration="7103000" />
+      <workItem from="1654510477469" duration="15311000" />
+      <workItem from="1654586264504" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="була проблена з відображенням, видаляв папку ідеа">
       <created>1649432997721</created>
@@ -146,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652455429414</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="js hw 9 + additional 2">
+      <created>1653230974071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653230974071</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +208,7 @@
     <MESSAGE value="роблю дз 4" />
     <MESSAGE value="js homework 1" />
     <MESSAGE value="js homework 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="js homework 5" />
+    <MESSAGE value="js hw 9 + additional" />
+    <option name="LAST_COMMIT_MESSAGE" value="js hw 9 + additional" />
   </component>
 </project>

@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.post {
+    background: darkseagreen;
+    text-align: center;
+}
+
+.comment {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: #f8e2e4;
+}
+
+.info {
+    width: 24%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    background: #f8e2e4;
+    margin: 5px;
+    box-sizing: border-box;
+    border: 2px solid darkblue;
+}
+
+
